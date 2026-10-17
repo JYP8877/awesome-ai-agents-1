@@ -2802,7 +2802,7 @@ Here's an awesome list of AI agents:
 
 ### Mixdog
 <div><a href="https://github.com/tribgames/mixdog"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/tribgames/mixdog"><img src="https://img.shields.io/github/stars/tribgames/mixdog?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/tribgames">@tribgames</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/JYP8877">@JYP8877</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/799">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/799">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/tribgames">@tribgames</a></p>
 <p>🤖 AI Agents</p>
 
 <p>Open-source desktop coding agent where a lead model plans the task and hands search, edits and review to cheaper worker models. Works with Claude, GPT and Gemini models on Windows, macOS and Linux.</p>
